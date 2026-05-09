@@ -4,6 +4,6 @@ export default function robots() {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://www.sattvaaangane.co/sitemap.xml",
+    sitemap: "https://www.divyasreethequietside.co/sitemap.xml",
   };
 }

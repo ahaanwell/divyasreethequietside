@@ -41,7 +41,7 @@ export const metadata = {
     images: [
       {
         url:
-          "https://www.divyasreethequietside.co/images/master-plan-banner.webp",
+          "https://www.divyasreethequietside.co/images/master-plan.webp",
 
         width: 1200,
 
@@ -66,7 +66,7 @@ export const metadata = {
       "Discover the master plan layout of The Quiet Side by DivyaSree including tower placement, amenities, landscaped areas, and project infrastructure.",
 
     images: [
-      "https://www.divyasreethequietside.co/images/master-plan-banner.webp",
+      "https://www.divyasreethequietside.co/images/master-plan.webp",
     ],
   },
 
@@ -137,7 +137,7 @@ export default function page() {
         url: "https://www.divyasreethequietside.co/master-plan",
 
         image:
-          "https://www.divyasreethequietside.co/images/master-plan-banner.webp",
+          "https://www.divyasreethequietside.co/images/master-plan.webp",
 
         address: {
           "@type": "PostalAddress",

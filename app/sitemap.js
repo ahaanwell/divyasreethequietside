@@ -1,5 +1,5 @@
 export default async function sitemap() {
-  const baseUrl = "https://www.sattvaaangane.co";
+  const baseUrl = "https://www.divyasreethequietside.co";
 
   let blogs = [];
 
@@ -28,7 +28,7 @@ export default async function sitemap() {
   const staticPages = [
     "",
     "/price",
-    "/floor-plan",
+    "/floor-plans",
     "/location",
     "/master-plan",
     "/amenities",

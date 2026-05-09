@@ -28,7 +28,7 @@ export default function FloorPlanSection() {
             and optimal space utilization.
           </p>
           <p>
-            The apartments at <b>Divyasree The Quiet Side</b> are designed for buyers
+            The apartments at <b>The Quiet Side by DivyaSree</b> are designed for buyers
             who prefer larger living spaces in peaceful surroundings instead of
             crowded high-rise communities. Located in <b>Yelahanka New Town, North
             Bangalore</b>, the project combines modern architecture with a calm
@@ -37,7 +37,7 @@ export default function FloorPlanSection() {
         </div>
         <ul
           className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6"
-          aria-label="Divyasree The Quiet Side floor plans"
+          aria-label="The Quiet Side by DivyaSree floor plans"
         >
           <li className="rounded-xl overflow-hidden border border-gray-200 shadow-sm cursor-pointer">
             <div className="relative w-full aspect-[4/3] overflow-hidden bg-gray-100">
@@ -113,7 +113,7 @@ export default function FloorPlanSection() {
           </h2>
 
           <p>
-            One of the key highlights of Divyasree The Quiet Side is its
+            One of the key highlights of The Quiet Side by DivyaSree is its
             low-density planning concept. Spread across <b>5.5 acres</b> with only 270
             residences, the project is designed to reduce congestion and create
             a quieter, more peaceful living environment.
@@ -233,7 +233,7 @@ export default function FloorPlanSection() {
           </p>
 
           <h2 className="text-2xl font-bold text-gray-900">
-            Penthouses at Divyasree The Quiet Side
+            Penthouses at The Quiet Side by DivyaSree
           </h2>
 
           <p>
@@ -254,7 +254,7 @@ export default function FloorPlanSection() {
           </h2>
 
           <p>
-            The model apartments at Divyasree The Quiet Side are expected to be
+            The model apartments at The Quiet Side by DivyaSree are expected to be
             available during the official launch phase. These sample residences
             will help buyers understand the project’s design approach, material
             quality, layout efficiency, and overall lifestyle experience.

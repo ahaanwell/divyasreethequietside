@@ -21,12 +21,12 @@ const robotoMono = Roboto_Mono({
 export const metadata = {
   title: {
     default:
-      "The Quiet Side by DivyaSree | Yelahanka Bangalore | Price | Floor Plan | Brochure | Premium Apartments",
+      "Divyasree The Quiet Side | The Quiet Side by DivyaSree | Yelahanka Bangalore Apartments",
     template: "%s | The Quiet Side by DivyaSree",
   },
 
   description:
-    "The Quiet Side by DivyaSree is a premium low-density apartment project located in Yelahanka New Town, Bangalore. Spread across 5.5 acres, the project offers luxury 3 and 3.5 BHK apartments with modern amenities and spacious layouts.",
+    "Explore Divyasree The Quiet Side, a luxury apartment in Yelahanka New Town, Bangalore. Spread across 5.5 acres, The Quiet Side by DivyaSree excellent connectivity to IT hubs and the airport.",
 
   keywords: [
     "The Quiet Side by DivyaSree",
@@ -47,12 +47,12 @@ export const metadata = {
     title:
       "The Quiet Side by DivyaSree | Luxury Apartments in Yelahanka Bangalore",
     description:
-      "Explore The Quiet Side by DivyaSree at Yelahanka New Town, Bangalore offering premium 3 and 3.5 BHK apartments with modern amenities, landscaped spaces, and low-density living.",
+      "Explore Divyasree The Quiet Side, a luxury apartment in Yelahanka New Town, Bangalore. Spread across 5.5 acres, The Quiet Side by DivyaSree excellent connectivity to IT hubs and the airport.",
     url: "https://www.divyasreethequietside.co/",
     siteName: "The Quiet Side by DivyaSree",
     images: [
       {
-        url: "https://www.divyasreethequietside.co/images/thequietside.webp",
+        url: "https://www.divyasreethequietside.co/images/banner/divyasreethequietside.webp",
         width: 1200,
         height: 630,
         alt: "The Quiet Side by DivyaSree Yelahanka Bangalore",
@@ -69,7 +69,7 @@ export const metadata = {
     description:
       "Discover luxury 3 and 3.5 BHK apartments at The Quiet Side by DivyaSree in Yelahanka New Town, Bangalore.",
     images: [
-      "https://www.divyasreethequietside.co/images/thequietside.webp",
+      "https://www.divyasreethequietside.co/images/banner/divyasreethequietside.webp",
     ],
   },
 
@@ -104,7 +104,7 @@ export const metadata = {
   category: "Real Estate",
 
   verification: {
-    google: "YOUR_GOOGLE_VERIFICATION_CODE",
+    google: "5v3LrvOEHTMP_lT9pjGs99a1VvX1aeCfaqGpoC0g-mM",
   },
 };
 
@@ -117,17 +117,17 @@ export default function RootLayout({ children }) {
         name: "DivyaSree Developers",
         url: "https://www.divyasreethequietside.co/",
         logo:
-          "https://www.divyasreethequietside.co/images/thequietside.webp",
+          "https://www.divyasreethequietside.co/images/banner/divyasreethequietside.webp",
       },
 
       {
         "@type": "ApartmentComplex",
         name: "The Quiet Side by DivyaSree",
         description:
-          "The Quiet Side by DivyaSree is a premium low-density residential project located in Yelahanka New Town, North Bangalore offering luxury 3 BHK and 3.5 BHK apartments and penthouses with modern amenities.",
+          "Explore Divyasree The Quiet Side, a luxury apartment in Yelahanka New Town, Bangalore. Spread across 5.5 acres, The Quiet Side by DivyaSree excellent connectivity to IT hubs and the airport.",
         url: "https://www.divyasreethequietside.co/",
         image:
-          "https://www.divyasreethequietside.co/images/thequietside.webp",
+          "https://www.divyasreethequietside.co/images/banner/divyasreethequietside.webp",
 
         address: {
           "@type": "PostalAddress",

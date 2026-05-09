@@ -19,12 +19,6 @@ export default function PriceListSection() {
         </h2>
 
         <div className="w-full h-px bg-gray-200 mb-5" />
-
-        <div className="text-gray-800 space-x-6 pb-5">
-          <p>
-            lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut
-        </p>
-        </div>
         <div className="flex flex-col lg:flex-row gap-0 ">
 
 <div className="flex-1 overflow-x-auto">

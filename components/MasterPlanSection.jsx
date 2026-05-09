@@ -371,7 +371,7 @@ export default function MasterPlanSection() {
 
           <p>
             With low-density planning, landscaped open spaces, and carefully
-            positioned residential towers, Divyasree The Quiet Side is designed
+            positioned residential towers, The Quiet Side by DivyaSree is designed
             to create a balanced urban living environment in the fast-growing
             residential region of North Bangalore.
           </p>

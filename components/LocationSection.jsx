@@ -68,7 +68,7 @@ export default function LocationSection() {
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
               title="Divyasree The Quiet Side location map — Yelahanka New Town, North Bangalore"
-              aria-label="Google Maps showing Divyasree The Quiet Side location in Yelahanka New Town, North Bangalore"
+              aria-label="Google Maps showing The Quiet Side by DivyaSree location in Yelahanka New Town, North Bangalore"
             />
           </div>
 
@@ -674,12 +674,12 @@ export default function LocationSection() {
 
           <p>
             With low-density planning, premium residences, and strong North
-            Bangalore connectivity, Divyasree The Quiet Side combines peaceful
+            Bangalore connectivity, The Quiet Side by DivyaSree combines peaceful
             urban living with practical access to major city destinations.
           </p>
 
           <h2 className="text-2xl font-bold text-gray-900">
-            Educational Hub: Schools Near Divyasree The Quiet Side
+            Educational Hub: Schools Near The Quiet Side by DivyaSree
           </h2>
 
           <p>
@@ -692,7 +692,7 @@ export default function LocationSection() {
           </p>
 
           <h2 className="text-2xl font-bold text-gray-900">
-            Schools Near Divyasree The Quiet Side
+            Schools Near The Quiet Side by DivyaSree
           </h2>
 
           <div className="overflow-x-auto">
@@ -1112,7 +1112,7 @@ export default function LocationSection() {
         </div>
         <div className="text-gray-800 leading-8 space-y-4 mt-4">
           <h2 className="text-2xl font-bold text-gray-900">
-            Lifestyle & Entertainment Centers Near Divyasree The Quiet Side
+            Lifestyle & Entertainment Centers Near The Quiet Side by DivyaSree
           </h2>
 
           <p>
@@ -1540,7 +1540,7 @@ export default function LocationSection() {
           </p>
 
           <p>
-            Divyasree The Quiet Side is part of this evolving residential
+            The Quiet Side by DivyaSree is part of this evolving residential
             landscape, offering premium 3 BHK and 3.5 BHK apartments and
             penthouses within a low-density 5.5-acre community in Yelahanka New
             Town.

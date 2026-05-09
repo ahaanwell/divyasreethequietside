@@ -36,7 +36,7 @@ export const metadata = {
     images: [
       {
         url:
-          "https://www.divyasreethequietside.co/images/location-banner.png",
+          "https://www.divyasreethequietside.co/images/banner/divyasree-the-quiet-side.webp",
         width: 1200,
         height: 630,
         alt: "The Quiet Side by DivyaSree Location Map",
@@ -57,7 +57,7 @@ export const metadata = {
       "View the location map and connectivity advantages of The Quiet Side by DivyaSree in Yelahanka New Town Bangalore.",
 
     images: [
-      "https://www.divyasreethequietside.co/images/location-banner.png",
+      "https://www.divyasreethequietside.co/images/banner/divyasree-the-quiet-side.webp",
     ],
   },
 
@@ -115,7 +115,7 @@ export default function page() {
         url: "https://www.divyasreethequietside.co/location",
 
         image:
-          "https://www.divyasreethequietside.co/images/location-banner.png",
+          "https://www.divyasreethequietside.co/images/banner/divyasree-the-quiet-side.webp",
 
         address: {
           "@type": "PostalAddress",

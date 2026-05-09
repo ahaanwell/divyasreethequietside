@@ -36,7 +36,7 @@ export const metadata = {
     siteName: "The Quiet Side by DivyaSree",
     images: [
       {
-        url: "https://www.divyasreethequietside.co/images/thequietside.webp",
+        url: "https://www.divyasreethequietside.co/images/banner/divyasree-thequietside.webp",
         width: 1200,
         height: 630,
         alt: "The Quiet Side by DivyaSree Price List",
@@ -53,7 +53,7 @@ export const metadata = {
     description:
       "Check the latest price list of The Quiet Side by DivyaSree including 3 and 3.5 BHK apartment pricing in Yelahanka Bangalore.",
     images: [
-      "https://www.divyasreethequietside.co/images/thequietside.webp",
+      "https://www.divyasreethequietside.co/images/banner/divyasree-thequietside.webp",
     ],
   },
 
@@ -106,7 +106,7 @@ export default function Page() {
         url: "https://www.divyasreethequietside.co/price",
 
         image:
-          "https://www.divyasreethequietside.co/images/thequietside.webp",
+          "https://www.divyasreethequietside.co/images/banner/divyasree-thequietside.webp",
 
         address: {
           "@type": "PostalAddress",

@@ -5,7 +5,7 @@ import { useState } from "react";
 import { FaEnvelope, FaWhatsapp } from "react-icons/fa";
 import LeadModal from "./LeadModal";
 
-const whatsappLink = "https://wa.me/+918317452005?text=Hi!%20I%27m%20Interested%20In%20Sattva%20Aangane%20Please%20Share%20Details.";
+const whatsappLink = "https://wa.me/+918317452005?text=Hi!%20I%27m%20Interested%20In%20The%20Quiet%20Side%20by%20DivyaSree%20Please%20Share%20Details.";
 export default function MobileBottomBar() {
     const [isModalOpen, setIsModalOpen] = useState(false);
   return (

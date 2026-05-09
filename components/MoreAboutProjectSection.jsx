@@ -1,5 +1,4 @@
 import Image from "next/image";
-import SattvaProjects from "./SattvaProjects";
 
 /* eslint-disable react/no-unescaped-entities */
 export default function MoreAboutProjectSection() {
@@ -68,7 +67,7 @@ export default function MoreAboutProjectSection() {
             </p>
 
             <h2 className="text-2xl font-bold text-gray-900">
-              RERA Status of Divyasree The Quiet Side
+              RERA Status of The Quiet Side by DivyaSree
             </h2>
 
             <h3 className="text-xl font-semibold text-gray-900">
@@ -76,7 +75,7 @@ export default function MoreAboutProjectSection() {
             </h3>
 
             <p>
-              Divyasree The Quiet Side is currently in the upcoming / pre-launch
+              The Quiet Side by DivyaSree is currently in the upcoming / pre-launch
               stage, and the Karnataka RERA registration process is expected to
               be completed before the official launch phase. Once approved, the
               project will receive an official Karnataka RERA registration

@@ -90,7 +90,7 @@ export default function LeadModal({
 
   if (!isOpen) return null;
 
-  const whatsappLink = "https://wa.me/+918317452005?text=Hi!%20I%27m%20Interested%20In%20Sattva%20Aangane%20Please%20Share%20Details.";
+  const whatsappLink = "https://wa.me/+918317452005?text=Hi!%20I%27m%20Interested%20In%20The%20Quiet%20Side%20by%20DivyaSree%20Please%20Share%20Details.";
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center px-3 md:px-4">
       <div
@@ -98,7 +98,7 @@ export default function LeadModal({
         onClick={onClose}
       />
       <div
-        className="relative z-10 w-full max-w-lg bg-white rounded-xl shadow-2xl 
+        className="relative z-50 w-full max-w-lg bg-white rounded-xl shadow-2xl 
         transform transition-all duration-300 ease-out
         animate-[fadeIn_0.3s_ease-out]"
       >

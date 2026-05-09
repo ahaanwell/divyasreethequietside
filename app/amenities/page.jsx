@@ -13,6 +13,7 @@ export const metadata = {
 
   keywords: [
     "The Quiet Side by DivyaSree amenities",
+    "DivyaSree The Quiet Side amenities",
     "Divyasree The Quiet Side amenities",
     "The Quiet Side Bangalore amenities",
     "The Quiet Side clubhouse",
@@ -40,7 +41,7 @@ export const metadata = {
     images: [
       {
         url:
-          "https://www.divyasreethequietside.co/images/amenities.webp",
+          "https://www.divyasreethequietside.co/images/banner/divyasreethequietside.webp",
 
         width: 1200,
 
@@ -65,7 +66,7 @@ export const metadata = {
       "Explore modern lifestyle amenities at The Quiet Side by DivyaSree including clubhouse, gymnasium, swimming pool and landscaped gardens.",
 
     images: [
-      "https://www.divyasreethequietside.co/images/amenities.webp"
+      "https://www.divyasreethequietside.co/images/banner/divyasreethequietside.webp"
     ],
   },
 
@@ -136,7 +137,7 @@ export default function page() {
         url: "https://www.divyasreethequietside.co/amenities",
 
         image:
-          "https://www.divyasreethequietside.co/images/amenities.webp",
+          "https://www.divyasreethequietside.co/images/banner/divyasreethequietside.webp",
 
         address: {
           "@type": "PostalAddress",

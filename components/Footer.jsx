@@ -28,7 +28,8 @@ export default function Footer() {
         {/* Divider */}
           <div className="border-t border-gray-200"></div>
 
-          {/* Social Media */}
+          <div className="flex flex-col lg:flex-row items-center justify-between gap-4 lg:px-6">
+            {/* Social Media */}
           <div className="flex justify-center gap-5">
             <a
               href="https://www.facebook.com/sattvaaangane"
@@ -73,6 +74,12 @@ export default function Footer() {
             >
               <FaYoutube size={14} />
             </a>
+          </div>
+          <div>
+            <p className="text-sm text-gray-700 leading-relaxed text-center">
+              Developed and Marketing by <a href="https://www.mndigitalagency.in" target="_blank" className="text-primary hover:underline">MN Digital Agency</a>
+            </p>
+          </div>
           </div>
       </div>
     </footer>

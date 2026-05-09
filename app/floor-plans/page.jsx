@@ -13,17 +13,13 @@ export const metadata = {
 
   keywords: [
     "The Quiet Side by DivyaSree floor plan",
+    "DivyaSree The Quiet Side floor plan",
     "Divyasree The Quiet Side floor plan",
     "The Quiet Side Bangalore floor plan",
     "The Quiet Side Yelahanka layout",
     "Divyasree apartment layout",
     "3 BHK floor plan Yelahanka",
     "3.5 BHK floor plan Bangalore",
-    "premium apartments floor plan",
-    "luxury apartment layouts Bangalore",
-    "Divyasree The Quiet Side unit plan",
-    "Yelahanka apartment floor plan",
-    "North Bangalore apartment layouts",
   ],
 
   metadataBase: new URL("https://www.divyasreethequietside.co"),
@@ -46,7 +42,7 @@ export const metadata = {
     images: [
       {
         url:
-          "https://www.divyasreethequietside.co/images/floor-plan-banner.webp",
+          "https://www.divyasreethequietside.co/images/banner/divyasree-the-quiet-side.webp",
 
         width: 1200,
 
@@ -71,7 +67,7 @@ export const metadata = {
       "Discover spacious and modern floor plans at The Quiet Side by DivyaSree Bangalore featuring luxury 3 and 3.5 BHK apartment layouts.",
 
     images: [
-      "https://www.divyasreethequietside.co/images/floor-plan-banner.webp",
+      "https://www.divyasreethequietside.co/images/banner/divyasree-the-quiet-side.webp",
     ],
   },
 
@@ -142,7 +138,7 @@ export default function page() {
         url: "https://www.divyasreethequietside.co/floor-plans",
 
         image:
-          "https://www.divyasreethequietside.co/images/floor-plan-banner.webp",
+          "https://www.divyasreethequietside.co/images/banner/divyasree-the-quiet-side.webp",
 
         address: {
           "@type": "PostalAddress",

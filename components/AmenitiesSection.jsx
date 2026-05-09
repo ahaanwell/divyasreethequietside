@@ -102,7 +102,7 @@ export default function AmenitiesSection() {
             larger township developments.
           </p>
           <p>
-            Divyasree The Quiet Side is designed for families and professionals
+            The Quiet Side by DivyaSree is designed for families and professionals
             who prefer spacious living environments with practical lifestyle
             features and wellness-oriented spaces.
           </p>
@@ -162,12 +162,6 @@ export default function AmenitiesSection() {
           <p>
             These amenities are planned to support daily comfort, recreational
             activities, and community living within the project.
-          </p>
-
-          <p>
-            Overall, Divyasree The Quiet Side combines modern residential
-            convenience with open green surroundings and wellness-focused
-            planning in North Bangalore.
           </p>
 
           <h2 className="text-2xl font-bold text-gray-900">

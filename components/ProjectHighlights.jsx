@@ -134,7 +134,7 @@ export default function ProjectHighlights() {
 
             <p>
               The project features spacious <b>3 BHK and 3.5 BHK residences</b> crafted
-              with modern architecture, smart layouts, and premium interiors. <b>Divyasree The Quiet Side Bangalore</b> is designed to create a calm
+              with modern architecture, smart layouts, and premium interiors. <b>The Quiet Side by DivyaSree Bangalore</b> is designed to create a calm
               and private lifestyle experience while still offering excellent
               connectivity to key locations across North Bangalore. The starting
               price of these premium apartments is expected from ₹2.45 Crore
@@ -153,11 +153,11 @@ export default function ProjectHighlights() {
             </p>
 
             <h2 className="text-2xl font-bold text-gray-900">
-              Location Advantage of Divyasree The Quiet Side
+              Location Advantage of The Quiet Side by DivyaSree
             </h2>
 
             <p>
-              The location of <a href="https://www.divyasreethequietside.co/"><strong>Divyasree The Quiet Side</strong></a> is <a href="https://en.wikipedia.org/wiki/Yelahanka" target="_blank" rel="noopener noreferrer"><b>Yelahanka</b></a> New Town,
+              The location of <a href="https://www.divyasreethequietside.co/"><strong>The Quiet Side by DivyaSree</strong></a> is <a href="https://en.wikipedia.org/wiki/Yelahanka" target="_blank" rel="noopener noreferrer"><b>Yelahanka</b></a> New Town,
               North Bangalore. The area is known for its greenery, wide roads,
               peaceful atmosphere, and well-developed social infrastructure.
               Yelahanka has transformed into a major residential and investment
@@ -223,7 +223,7 @@ export default function ProjectHighlights() {
           </h3>
 
           <p>
-            Divyasree The Quiet Side offers spacious <b>3 BHK and 3.5 BHK apartments</b> designed for modern family living,
+            The Quiet Side by DivyaSree offers spacious <b>3 BHK and 3.5 BHK apartments</b> designed for modern family living,
             along with premium penthouses designed for modern luxury living and
             enhanced comfort.
           </p>
@@ -389,7 +389,7 @@ export default function ProjectHighlights() {
           </div>
 
           <p>
-            <b>Divyasree The Quiet Side North Bangalore</b> offers carefully planned
+            <b>The Quiet Side by DivyaSree North Bangalore</b> offers carefully planned
             premium residences with spacious layouts and modern design concepts.
             The project is mainly focused on buyers who prefer privacy, lower
             density communities, and a peaceful living atmosphere within city
@@ -504,7 +504,7 @@ export default function ProjectHighlights() {
           </h2>
 
           <p>
-            The RERA registration for Divyasree The Quiet Side is currently
+            The RERA registration for The Quiet Side by DivyaSree is currently
             under process. Once approved, the official Karnataka RERA
             registration number will be issued by the Karnataka Real Estate
             Regulatory Authority. The project is expected to receive all
@@ -549,7 +549,7 @@ export default function ProjectHighlights() {
           </h2>
 
           <p>
-            Divyasree The Quiet Side is expected to offer a customer-friendly
+            The Quiet Side by DivyaSree is expected to offer a customer-friendly
             payment structure designed to provide financial flexibility for
             homebuyers and investors.
           </p>
@@ -648,7 +648,7 @@ export default function ProjectHighlights() {
 
           <p>
             Because of continuous infrastructure growth and rising demand for
-            luxury housing, Divyasree The Quiet Side is expected to become a
+            luxury housing, The Quiet Side by DivyaSree is expected to become a
             strong investment option in North Bangalore’s premium residential
             market. The project combines low-density living, modern amenities,
             and strategic connectivity in one of Bangalore’s fastest-growing
