@@ -4,7 +4,7 @@ import PricePage from "./PricePage";
 export const metadata = {
   title: {
     default:
-      "The Quiet Side by DivyaSree Price | Yelahanka Bangalore | Pre Launch Offer",
+      "The Quiet Side by DivyaSree Price Details | Yelahanka Bangalore | Pre Launch Offer",
     template: "%s | The Quiet Side by DivyaSree Price",
   },
 
