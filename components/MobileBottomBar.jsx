@@ -5,7 +5,7 @@ import { useState } from "react";
 import { FaEnvelope, FaWhatsapp } from "react-icons/fa";
 import LeadModal from "./LeadModal";
 
-const whatsappLink = "https://wa.me/+918317452005?text=Hi!%20I%27m%20Interested%20In%20The%20Quiet%20Side%20by%20DivyaSree%20Please%20Share%20Details.";
+const whatsappLink = "https://wa.me/+919380660766?text=Hi!%20I%27m%20Interested%20In%20The%20Quiet%20Side%20by%20DivyaSree%20Please%20Share%20Details.";
 export default function MobileBottomBar() {
     const [isModalOpen, setIsModalOpen] = useState(false);
   return (
@@ -30,7 +30,7 @@ export default function MobileBottomBar() {
           aria-label="Chat on WhatsApp"
         >
           <FaWhatsapp className="text-white text-xl" />
-          <span className="text-white text-xs font-medium">+918317452005</span>
+          <span className="text-white text-xs font-medium">+919380660766</span>
         </Link>
 
       </div>

@@ -24,7 +24,7 @@ export default function Header() {
     { name: "Gallery", link: "/#gallery" },
   ];
 
-  const whatsappLink = "https://wa.me/+918317452005?text=Hi!%20I%27m%20Interested%20In%20The%20Quiet%20Side%20by%20DivyaSree%20Please%20Share%20Details.";
+  const whatsappLink = "https://wa.me/+919380660766?text=Hi!%20I%27m%20Interested%20In%20The%20Quiet%20Side%20by%20DivyaSree%20Please%20Share%20Details.";
 
   return (
     <>
@@ -77,7 +77,7 @@ export default function Header() {
                 className="bg-primary text-white flex items-center gap-1 px-3 py-1 rounded-full font-medium hover:bg-[#1d3283] transition"
               >
                 <FaWhatsapp />
-                +918317452005
+                +919380660766
               </Link>
             </div>
 
@@ -148,7 +148,7 @@ export default function Header() {
             className="flex justify-center items-center gap-2 bg-primary text-white py-2 rounded-full mt-6"
           >
             <FaWhatsapp />
-            +918317452005
+            +919380660766
           </Link>
         </div>
       </div>

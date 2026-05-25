@@ -90,7 +90,7 @@ export default function LeadModal({
 
   if (!isOpen) return null;
 
-  const whatsappLink = "https://wa.me/+918317452005?text=Hi!%20I%27m%20Interested%20In%20The%20Quiet%20Side%20by%20DivyaSree%20Please%20Share%20Details.";
+  const whatsappLink = "https://wa.me/+919380660766?text=Hi!%20I%27m%20Interested%20In%20The%20Quiet%20Side%20by%20DivyaSree%20Please%20Share%20Details.";
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center px-3 md:px-4">
       <div
@@ -223,7 +223,7 @@ export default function LeadModal({
                 </Link>
 
                 <Link
-                  href="tel:+918317452005"
+                  href="tel:+919380660766"
                   className="flex-1 flex items-center justify-center gap-2 bg-blue-600 hover:bg-blue-700 text-white py-2 rounded-md text-sm"
                 >
                   <FaPhone />
